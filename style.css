@@ -10,7 +10,9 @@ div {
   align-items: center;
   max-width: inherit;
 }
-
+p {
+  max-width: 300px;
+}
 h1 {
 text-align: center;
 font-weight: bolder;

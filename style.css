@@ -1,4 +1,15 @@
-
+html {
+  background: grey;
+  color: #FFFFFF;
+  font-family: Helvetica, sans-serif;
+}
+div {
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: inherit;
+}
 
 h1 {
 text-align: center;
@@ -7,4 +18,7 @@ font-weight: bolder;
 h2 {
   text-align: center;
   font-weight: bold;
+}
+h3 {
+  text-align: center;
 }

@@ -12,6 +12,7 @@ div {
 }
 p {
   max-width: 300px;
+  text-align: center;
 }
 h1 {
 text-align: center;
